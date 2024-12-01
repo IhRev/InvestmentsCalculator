@@ -1,0 +1,2 @@
+# InvestmentsCalculator
+Exercising in angular
